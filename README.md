@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome e Mauro sou estudante de programação e estou cursando ciencias da computação!!</h2>
+<h2 align="left">Olá 👋! Meu nome e Mauro sou estudante de programação e estou cursando Ciencias da computação!!</h2>
 
 ###
 
